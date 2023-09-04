@@ -1,0 +1,19 @@
+Para vincular o pessoal da live da Twitch ao servidor do Discord, você pode seguir os seguintes passos:
+
+1. Abra o Discord e acesse o servidor desejado.
+
+2. No Discord, clique com o botão direito no nome do servidor na barra lateral esquerda e selecione "Configurações do servidor".
+
+3. Na página de configurações do servidor, clique em "Integrações" no menu lateral esquerdo.
+
+4. Na lista de integrações disponíveis, procure por uma integração do Twitch. Se não encontrar, você pode adicionar uma nova integração do Twitch clicando em "+ Adicionar Integração" e pesquisando por Twitch na lista.
+
+5. Após localizar a integração do Twitch, clique em "Configurar" ou "Adicionar" para iniciar o processo de vinculação.
+
+6. Você será redirecionado para a página de autorização do Twitch. Faça login com sua conta da Twitch e conceda as permissões necessárias para vincular o Twitch ao Discord.
+
+7. Depois de autorizar a integração, você poderá personalizar as configurações, como notificações de transmissão ao vivo, papel do Twitch para membros do servidor, etc. Ajuste as configurações de acordo com suas preferências.
+
+8. Uma vez configurado, os membros da live da Twitch serão automaticamente vinculados ao servidor do Discord. Eles receberão notificações sobre suas transmissões ao vivo e poderão interagir com o canal do Twitch diretamente do servidor.
+
+Lembre-se de que você precisa ter as permissões adequadas no servidor do Discord para adicionar integrações e configurá-las. Além disso, é importante que os membros da live da Twitch também estejam conectados ao servidor do Discord para aproveitar os recursos da integração.
